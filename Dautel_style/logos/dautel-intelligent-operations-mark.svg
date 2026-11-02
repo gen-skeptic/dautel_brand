@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 112" role="img" aria-labelledby="title description">
+  <title id="title">Dautel Intelligent Operations mark</title>
+  <desc id="description">An angular blue D containing a terminal prompt with a mint status indicator.</desc>
+  <path fill="#8bc4ff" fill-rule="evenodd" d="M8 8h64l32 32v56l-8 8H8V8Zm20 20v56h48l8-8V48L64 28H28Z"/>
+  <path d="m38 45 13 11-13 11m20 4h14" fill="none" stroke="#8bc4ff" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
+  <circle cx="94" cy="94" r="13" fill="#070b11"/>
+  <circle cx="94" cy="94" r="8.5" fill="#8ee5bd"/>
+</svg>
