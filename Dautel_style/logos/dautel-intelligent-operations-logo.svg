@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 112" role="img" aria-labelledby="title description">
+  <title id="title">Dautel Intelligent Operations</title>
+  <desc id="description">An angular blue D containing a terminal prompt and mint status indicator beside the Dautel Intelligent Operations wordmark and dautel.io domain.</desc>
+  <g>
+    <path fill="#8bc4ff" fill-rule="evenodd" d="M8 8h64l32 32v56l-8 8H8V8Zm20 20v56h48l8-8V48L64 28H28Z"/>
+    <path d="m38 45 13 11-13 11m20 4h14" fill="none" stroke="#8bc4ff" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
+    <circle cx="94" cy="94" r="13" fill="#070b11"/>
+    <circle cx="94" cy="94" r="8.5" fill="#8ee5bd"/>
+  </g>
+  <g font-family="'JetBrains Mono', 'Courier New', monospace">
+    <text x="132" y="52" fill="#f2f0e9" font-size="44" font-weight="760" letter-spacing="4">DAUTEL</text>
+    <text x="134" y="80" fill="#c7a4ff" font-size="15.5" font-weight="780" letter-spacing="1.3">INTELLIGENT OPERATIONS</text>
+    <path d="M372 29v57" fill="none" stroke="#c7a4ff" stroke-width="2"/>
+    <text x="393" y="65" fill="#8ee5bd" font-size="16" font-weight="650">dautel.io</text>
+  </g>
+</svg>
